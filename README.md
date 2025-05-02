@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eceo-Equita
 - 👀 I’m interested in Environmental Data
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on money making
+- 💞️ I’m looking to collaborate on paid projects
 - 📫 Eceo Brickle
 - 😄 Pronouns: They/Them 
 - ⚡ Fun fact: Hummingbirds originate in the Americas
